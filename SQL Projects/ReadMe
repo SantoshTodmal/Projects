@@ -1,0 +1,28 @@
+# This folder contains my SQL practice, database exercises, queries, and SQL projects.
+
+Topics Covered :
+  1.SQL Basics
+  2.Database and Table Creation
+  3.SELECT Statements
+  4.WHERE, ORDER BY, and LIMIT
+  5.Aggregate Functions
+  6.GROUP BY and HAVING
+  7.Joins
+  8.Subqueries
+  9.Functions
+  10.CASE Statements
+  11.Constraints
+  12.Primary Key and Foreign Key
+  12.Views
+  13.Stored Procedures
+  14.Triggers
+  15.Window Functions
+  16.Data Cleaning and Transformation
+  17.SQL Data Analysis
+
+
+SQL Projects Files :-
+  1.Library Management System
+  2.World Population Data Analysis
+  3.Students Data Analysis
+  4.Banking Database System
