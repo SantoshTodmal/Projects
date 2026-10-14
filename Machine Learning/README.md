@@ -23,9 +23,10 @@ This folder contains my Machine Learning practice, code, and learning materials.
 - Jupyter Notebook
 
 ## Projects :
-- Loan Default Risk Prediction
-- Manufacturing Lead-Time Prediction
-- Language Detection Model
+1. Loan Default Risk Prediction
+2. Manufacturing Lead-Time Prediction
+3. Language Detection Model
+4. Customer Churn Prediction Model 
 
 ## Objective :
 To apply Machine Learning techniques to datasets, identify patterns, build predictive models, and evaluate model performance.
