@@ -1,0 +1,35 @@
+
+Company Name : Reliance Industries Limited
+Stock Ticker : RELIANCE.NS
+Data Source : Yahoo Finance
+Analysis : Fundamental financial analysis
+Working Sector :  Energy
+Industry Name :  Oil & Gas Refining & Marketing
+Website Name :  https://www.ril.com
+Market Cap :  15788334383104 INR
+
+
+In financial year 2023, Reliance Industries reported revenue of : Rs 877835.00 crore and net income of Rs. 66702.00 crore.
+
+In financial year 2024, Reliance Industries reported revenue of : Rs 901064.00 crore and net income of Rs. 69621.00 crore.
+
+In financial year 2025, Reliance Industries reported revenue of : Rs 964693.00 crore and net income of Rs. 69648.00 crore.
+
+In financial year 2026, Reliance Industries reported revenue of : Rs 1057219.00 crore and net income of Rs. 80775.00 crore.
+
+In financial year 2023, Reliance Industries Limited had a debt-to-equity ratio of 0.47, a current ratio of 1.07, and a net profit margin of 7.60 %.
+
+In financial year 2024, Reliance Industries Limited had a debt-to-equity ratio of 0.44, a current ratio of 1.18, and a net profit margin of 7.73 %.
+
+In financial year 2025, Reliance Industries Limited had a debt-to-equity ratio of 0.44, a current ratio of 1.10, and a net profit margin of 7.22 %.
+
+In financial year 2026, Reliance Industries Limited had a debt-to-equity ratio of 0.44, a current ratio of 1.10, and a net profit margin of 7.64 %.
+
+In financial year 2026, Reliance Industries Limited had operating cash flow of Rs. 192113.00 crore and free cash flow of Rs. 69197.00 crore.
+
+In financial year 2025, Reliance Industries Limited had operating cash flow of Rs. 178703.00 crore and free cash flow of Rs. 38736.00 crore.
+
+In financial year 2024, Reliance Industries Limited had operating cash flow of Rs. 158788.00 crore and free cash flow of Rs. 5905.00 crore.
+
+In financial year 2023, Reliance Industries Limited had operating cash flow of Rs. 115032.00 crore and free cash flow of Rs. -25956.00 crore.
+
