@@ -1,0 +1,18 @@
+MATERIAL HANDLING AND STORAGE SOP
+
+    Purpose:
+    To maintain material identification, quality, and traceability.
+
+    Procedure:
+    1. Verify incoming material against delivery documents.
+    2. Check material identification and quantity.
+    3. Inspect for visible damage or packaging issues.
+    4. Label and record accepted materials.
+    5. Segregate unidentified or nonconforming materials.
+    6. Store materials in designated locations.
+    7. Follow applicable storage conditions and stock rotation.
+    8. Record material issues to production.
+    9. Update inventory records after material movements.
+
+    Record:
+    Maintain material receipt, issue, and stock information.

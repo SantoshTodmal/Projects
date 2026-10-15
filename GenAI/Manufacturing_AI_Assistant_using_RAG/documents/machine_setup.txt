@@ -1,0 +1,17 @@
+MACHINE SETUP AND OPERATION SOP
+
+    Purpose:
+    To ensure safe and consistent machine operation.
+
+    Procedure:
+    1. Inspect the machine before starting production.
+    2. Verify that safety guards are installed.
+    3. Check the availability of approved raw materials.
+    4. Confirm machine settings against the approved process sheet.
+    5. Start the machine according to the authorized procedure.
+    6. Monitor production and record output and downtime.
+    7. Follow the approved shutdown procedure.
+
+    Safety:
+    Stop operation if an unsafe condition is identified.
+    Only authorized personnel may operate the equipment.

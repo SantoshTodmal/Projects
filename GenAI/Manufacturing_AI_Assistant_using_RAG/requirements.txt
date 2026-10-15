@@ -1,0 +1,4 @@
+entence-transformers
+faiss-cpu
+numpy
+google-genai

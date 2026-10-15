@@ -1,0 +1,17 @@
+QUALITY INSPECTION AND SAMPLING SOP
+
+    Purpose:
+    To verify that manufactured products meet specifications.
+
+    Procedure:
+    1. Check the approved drawing and product specifications.
+    2. Inspect the first produced component.
+    3. Measure critical dimensions using approved instruments.
+    4. Record inspection results.
+    5. Perform in-process sampling according to the control plan.
+    6. Identify and segregate nonconforming products.
+    7. Inform the quality department about identified defects.
+    8. Resume affected production only after required approval.
+
+    Record:
+    Maintain inspection results and defect records.

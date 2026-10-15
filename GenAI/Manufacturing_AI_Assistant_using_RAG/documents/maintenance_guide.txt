@@ -1,0 +1,43 @@
+MACHINE MAINTENANCE GUIDE
+
+    Purpose:
+    To maintain equipment reliability and reduce unexpected downtime.
+
+    Common Warning Signs:
+    1. Unusual machine vibration.
+    2. Abnormal noise during operation.
+    3. Excessive temperature or overheating.
+    4. Oil leakage or lubrication problems.
+    5. Loose or visibly damaged components.
+    6. Unexpected machine stoppages.
+
+    Maintenance Procedure:
+    1. Report the machine problem to the maintenance team.
+    2. Stop the machine if continued operation may be unsafe.
+    3. Isolate hazardous energy using the approved Lockout/Tagout
+       (LOTO) procedure before applicable maintenance work.
+    4. Allow hot components to cool where required.
+    5. Inspect relevant components for wear or damage.
+    6. Check lubrication according to the manufacturer's instructions.
+    7. Replace or repair components only as authorized.
+    8. Verify that tools and maintenance materials are removed.
+    9. Restore guards and safety devices before restarting.
+    10. Test the machine according to the approved procedure.
+    11. Record the maintenance activity and downtime.
+
+    Preventive Maintenance:
+    1. Follow the approved maintenance schedule.
+    2. Inspect critical machine components regularly.
+    3. Check lubrication levels and leakage.
+    4. Monitor vibration, temperature, and abnormal noise.
+    5. Record inspection findings and completed activities.
+
+    Safety Precautions:
+    Only trained and authorized personnel may perform maintenance.
+    Never bypass machine guards or safety interlocks.
+    Never perform maintenance on equipment without the required
+    energy isolation and verification.
+
+    Maintenance Records:
+    Record the machine ID, date, reported problem, action taken,
+    replacement parts, downtime, and responsible technician.

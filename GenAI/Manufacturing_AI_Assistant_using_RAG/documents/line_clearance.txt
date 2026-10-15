@@ -1,0 +1,16 @@
+LINE CLEARANCE AND CHANGEOVER SOP
+
+    Purpose:
+    To prevent material mix-ups during product changeovers.
+
+    Procedure:
+    1. Stop the previous production run.
+    2. Remove previous product materials and labels.
+    3. Inspect the production area for leftover components.
+    4. Clean the equipment according to the approved procedure.
+    5. Verify the next product and material identification.
+    6. Complete the line-clearance checklist.
+    7. Obtain required authorization before restarting production.
+
+    Record:
+    Document the product, batch, date, and clearance approval.
